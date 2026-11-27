@@ -1,4 +1,4 @@
-# GONO BASE64
+# GENO BASE64
 
 Fresh-Finance-Edition mit hellem Design und unveränderter Konvertierungslogik.
 
